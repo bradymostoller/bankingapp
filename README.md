@@ -3,10 +3,15 @@ Welcome to Horizon, a fully functional online banking platform that goes beyond 
 
 Key Features
 Real-time Transactions: View transactions as they happen, connected to multiple bank accounts.
+
 Balance Overview: A homepage showcasing your balance, connected credit cards, and transaction history.
+
 Bank Account Management: Connect and manage multiple banks, including viewing and filtering transaction history.
+
 Money Transfers: Make secure transfers between users on the platform or to real bank accounts.
+
 Secure Authentication: Utilize ultra-secure SSR authentication for safe login and actions.
+
 Mobile-Responsive Design: The platform is fully responsive, built using Tailwind CSS for a modern UI.
 
 Technologies Used
